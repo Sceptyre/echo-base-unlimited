@@ -10,10 +10,15 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Unlimited",
+  "name": "HelloWorld's Unlimited",
   "version": "-1.2.1.1",
   "author": "",
   "files": [
+    {
+      "projectID": 404465,
+      "fileID": 4661834,
+      "required": true
+    },
     {
       "projectID": 404468,
       "fileID": 4611938,
