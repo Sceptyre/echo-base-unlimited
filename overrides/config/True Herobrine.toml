@@ -1,0 +1,11 @@
+
+["Herobrine Spawning"]
+	#Sets how close you can get to herobrine before he despawns. (in blocks)
+	"Despawn Distance" = 50.0
+	#Sets the minimum y level he has to be to spawn
+	"Y Limit" = 0.0
+	#How long (in ticks) herobrine lasts.
+	"Herobrine Lifetime" = 2400.0
+	#Sets if herobrine can only spawn in the overworld.
+	"Overworld Only" = true
+

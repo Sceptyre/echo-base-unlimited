@@ -1,0 +1,27 @@
+#How long the cake eater is set on fire for in ticks
+#Range: 0 ~ 32000
+fireyCakeOnFireDuration = 20
+#How long mobs affected by the glowstone cake glow for in ticks
+#Range: 0 ~ 32000
+glowstoneCakeGlowingDuration = 85
+#The radius around the player in which the they will be randomly teleported
+#Range: 0.0 ~ 10000.0
+chorusCakeTeleportRadius = 10.0
+#The radius around the player in which the they will be randomly teleported
+#Range: 0.0 ~ 10000.0
+enderCakeTeleportRadius = 50.0
+#Whether the TNT cake will explode when powered by Redstone
+effectedByRedstone = false
+#How big the explosion for TNT cake is
+#Range: 1 ~ 50
+tntCakeExplosionSize = 5
+#How long it takes for encasing ice to melt. Larger numbers is slower
+#Range: > 0
+encasingIceMeltSpeed = 1
+#How often do cake bakeries generate in villages. 0 to disable
+#Range: 0 ~ 150
+cakeBakeryGenerationWeight = 1
+#The radius in blocks at which the glowstone cake will effect mobs
+#Range: 0 ~ 100
+glowstoneCakeEffectRadius = 20
+
