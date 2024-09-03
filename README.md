@@ -1,11 +1,11 @@
 # Echo Base's Unlimited Modpack
-Welcome aboard the Echo Base Vanilla+ Modded experience. This modpack is an extention of another modpack known as `HazardousDaniel's Unlimited`. While a great modpack, there were some shortcomings from the server side and we wanted an opportunity to make it easier to add additional mods in the future. This project does exactly that. Assuming you have completed the necessary steps to get whitelisted, follow the instructions below to get your launcher set up and join us!
+Welcome aboard the Echo Base Vanilla+ Modded experience. This 1.19.2 modpack is an extention of another modpack known as `HazardousDaniel's Unlimited`. While a great modpack, there were some shortcomings from the server side and we wanted an opportunity to make it easier to add additional mods in the future. This project does exactly that. Assuming you have completed the necessary steps to get whitelisted, follow the instructions below to get your launcher set up and join us!
 
 ## Install
 ### Method 1: CurseForge
 #### Prerequisites
 - [CurseForge Launcher](https://www.curseforge.com/download/app) is installed
-- Latest release of Echo Base's Unlimited
+- Latest release of Echo Base's Unlimited is downloaded
 
 #### Steps
 1. Open CurseForge Launcher
@@ -15,7 +15,7 @@ Welcome aboard the Echo Base Vanilla+ Modded experience. This modpack is an exte
 ### Method 2: Prism/PolyMC
 #### Prerequisites
 - [Prism Launcher](https://prismlauncher.org/download) is installed
-- Latest release of Echo Base's Unlimited
+- Latest release of Echo Base's Unlimited is downloaded
 
 #### Steps
 1. Open Prism Launcher
