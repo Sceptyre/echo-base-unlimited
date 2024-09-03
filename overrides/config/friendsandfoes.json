@@ -1,5 +1,5 @@
 {
-  "checkForNewUpdates": true,
+  "checkForNewUpdates": false,
   "enableCopperGolem": true,
   "generateCopperGolemAreaStructure": true,
   "generateCopperGolemInAncientCity": true,
