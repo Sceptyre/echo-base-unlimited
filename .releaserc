@@ -9,9 +9,9 @@
     ],
     [
       "@semantic-release/github", {
-        "assets": [
-          "./Echo Base's Unlimited v${nextRelease.version}.zip"
-        ]
+        "assets": [{
+          "path": "Echo Base's Unlimited v${nextRelease.version}.zip"
+        }]
       }
     ]
   ],
