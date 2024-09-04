@@ -4,7 +4,7 @@
     "@semantic-release/release-notes-generator",
     [
       "@semantic-release/exec", {
-        "prepareCmd": "./scripts/build.py ${nextRelease.version}"
+        "prepareCmd": "python3 ./scripts/build.py ${nextRelease.version}"
       }
     ],
     [
