@@ -1,6 +1,9 @@
 # Echo Base's Unlimited Modpack
 Welcome aboard the Echo Base Vanilla+ Modded experience. This 1.19.2 modpack is an extention of another modpack known as [HazardousDaniel's Unlimited](https://www.curseforge.com/minecraft/modpacks/hazardousdaniels-unlimited). While a great modpack, there were some shortcomings from the server side and we wanted an opportunity to make it easier to add additional mods in the future. This project does exactly that. Assuming you have completed the necessary steps to get whitelisted, follow the instructions below to get your launcher set up and join us!
 
+## Mod Requests
+For any mods you'd like to request, please go to the [Issues](./issues) page and file a **New issue**
+
 ## Install
 ### Method 1: CurseForge
 #### Prerequisites
