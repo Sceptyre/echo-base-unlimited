@@ -11,7 +11,7 @@ body:
     attributes:
       label: "Is there already a mod request for this?"
       options:
-        - label: "I have checked that this change hasn't already been requested."
+        - label: "I have checked that this mod hasn't already been requested."
           required: true
 
   - type: "input"
