@@ -23,7 +23,7 @@ For any mods you'd like to request, please go to the [Issues](https://github.com
 #### Steps
 1. Open Prism Launcher
 2. Go to **Add Instance > Import > Browse**
-3. Locate the `Echo Base's Unlimited vX.X.X.X.zip`
+3. Locate the `Echo Base's Unlimited vX.X.X.zip`
 4. Click **OK**
 5. If prompted to install `NoChatReports` you can hit OK to skip
 6. If prompted for manual mod downloads, add your downloads folder and then click the mod link to manually download it
