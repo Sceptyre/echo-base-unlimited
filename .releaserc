@@ -3,8 +3,12 @@
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
     [
-      "@semantic-release/github",
-      {
+      "@semantic-release/exec", {
+        "prepareCmd": "./scripts/build.py ${nextRelease.version}"
+      }
+    ],
+    [
+      "@semantic-release/github", {
         "assets": []
       }
     ]
