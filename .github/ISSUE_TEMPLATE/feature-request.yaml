@@ -1,33 +1,32 @@
-name: Request a new mod
-description: Make a suggestion for a mod you'd like to see in the pack.
+name: "Request a new mod"
+description: "Make a suggestion for a mod you'd like to see in the pack."
 labels: ["mod_request", "enhancement"]
 body:
-  - type: markdown
+  - type: "markdown"
     attributes:
-      value: |
-        Thank you for taking the time to request a mod be added.
+      value: "Thank you for taking the time to request a mod be added."
 
-  - type: checkboxes
+  - type: "checkboxes"
     attributes:
-      label: Is there already a mod request for this?
+      label: "Is there already a mod request for this?"
     options:
-      - label: I have checked that this change hasn't already been requested.
+      - label: "I have checked that this change hasn't already been requested."
         required: true
 
-  - type: input
+  - type: "input"
     attributes:
-      label: Mod name
+      label: "Mod name"
     validations:
       required: true
   
-  - type: input
+  - type: "input"
     attributes:
-      label: Mod page(CurseForge link)
+      label: "Mod page(CurseForge link)"
     validations:
       required: true
 
-  - type: textarea
+  - type: "textarea"
     attributes:
-      label: Why do you want this added?
+      label: "Why do you want this added?"
     validations:
       required: true
