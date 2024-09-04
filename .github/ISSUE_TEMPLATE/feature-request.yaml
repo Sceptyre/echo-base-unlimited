@@ -6,6 +6,7 @@ body:
     attributes:
       value: |
         Thank you for taking the time to request a mod be added.
+
   - type: checkboxes
     attributes:
       label: Is there already a mod request for this?
