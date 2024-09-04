@@ -1,6 +1,7 @@
 name: "Request a new mod"
 description: "Make a suggestion for a mod you'd like to see in the pack."
 labels: ["mod_request", "enhancement"]
+title: "[MOD REQUEST]: "
 body:
   - type: "markdown"
     attributes:
