@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Echo Base's Unlimited",
-  "version": "v1.2.1.3",
+  "version": "$BUILD_VERSION",
   "author": "",
   "files": [
     {
