@@ -9,9 +9,9 @@ body:
   - type: "checkboxes"
     attributes:
       label: "Is there already a mod request for this?"
-    options:
-      - label: "I have checked that this change hasn't already been requested."
-        required: true
+      options:
+        - label: "I have checked that this change hasn't already been requested."
+          required: true
 
   - type: "input"
     attributes:
