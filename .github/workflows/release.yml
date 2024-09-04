@@ -33,7 +33,7 @@ jobs:
           node-version: "lts/*"
 
       - name: Install Dependencies
-        run: npm install -g semantic-release/exec
+        run: npm install @semantic-release/exec -D
 
       - name: Release
         env:
