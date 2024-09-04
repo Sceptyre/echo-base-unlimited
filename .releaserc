@@ -10,7 +10,8 @@
     [
       "@semantic-release/github", {
         "assets": [{
-          "path": "Echo Base's Unlimited ${nextRelease.gitTag}.zip"
+          "path": "build.zip",
+          "name": "Echo Base's Unlimited ${nextRelease.gitTag}.zip"
         }]
       }
     ]
