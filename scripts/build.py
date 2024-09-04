@@ -27,4 +27,4 @@ for src in copy_list:
     else:
         shutil.copy(src, dst)
 
-shutil.make_archive(f"Base Echo's Unlimited {sys.argv[1]}", "zip", root_dir=BUILD_DIR)
+shutil.make_archive(f"Echo Base's Unlimited {sys.argv[1]}", "zip", root_dir=BUILD_DIR)
