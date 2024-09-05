@@ -15,6 +15,12 @@
   "author": "",
   "files": [
     {
+      "alias": "collective_forge_7.64.jar",
+      "projectID": 342584,
+      "fileID": 5460518,
+      "required": true
+    },
+    {
       "alias": "tree-harvester_forge_8.7.jar",
       "projectID": 367178,
       "fileID": 5141422,
