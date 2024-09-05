@@ -40,4 +40,7 @@ for src in copy_list:
     else:
         shutil.copy(src, dst)
 
+with open(os.path.join(BUILD_DIR, "overrides/config/fancymenu/assets/version.txt"), "w+") as f:
+    f.write(f"Echo Base's Unlimited {BUILD_VERSION}")
+
 shutil.make_archive(f"build", "zip", root_dir=BUILD_DIR)
