@@ -15,6 +15,12 @@
   "author": "",
   "files": [
     {
+      "alias": "extreme-sound-muffler_forge_3.39.jar",
+      "projectID": 363363,
+      "fileID": 4821189,
+      "required": true
+    },
+    {
       "alias": "collective_forge_7.64.jar",
       "projectID": 342584,
       "fileID": 5460518,
