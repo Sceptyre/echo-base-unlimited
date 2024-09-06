@@ -25,6 +25,7 @@ with open("manifest.json", "r") as f:
 with open(os.path.join(BUILD_DIR, "manifest.json"), "w+") as f:
     f.write(manifest_formatted)
 
+
 copy_list = [
     "overrides",
     "icon.ico"
@@ -39,5 +40,17 @@ for src in copy_list:
         shutil.copytree(src, dst)
     else:
         shutil.copy(src, dst)
+
+with open(os.path.join(BUILD_DIR, "overrides/config/fancymenu/assets/version.txt"), "w+") as f:
+    f.write(f"Echo Base's Unlimited {BUILD_VERSION}")
+
+with open(os.path.join(BUILD_DIR, "overrides/config/bcc-common.toml"), "w+") as f:
+    f.write(f"""
+[general]
+	modpackProjectID = 0
+	modpackName = "Echo Base's Unlimted"
+	modpackVersion = "{ BUILD_VERSION }"
+	useMetadata = false
+            """)
 
 shutil.make_archive(f"build", "zip", root_dir=BUILD_DIR)

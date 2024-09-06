@@ -3,7 +3,7 @@
     "version": "1.19.2",
     "modLoaders": [
       {
-        "id": "forge-43.3.0",
+        "id": "forge-43.3.5",
         "primary": true
       }
     ]
@@ -14,6 +14,60 @@
   "version": "$BUILD_VERSION",
   "author": "",
   "files": [
+    {
+      "alias": "waystones_forge_11.4.2.jar",
+      "projectID": 245755,
+      "fileID": 4943265,
+      "required": true
+    },
+    {
+      "alias": "natures-compass_forge_1.10.0.jar",
+      "projectID": 252848,
+      "fileID": 4118390,
+      "required": true
+    },
+    {
+      "alias": "extreme-sound-muffler_forge_3.39.jar",
+      "projectID": 363363,
+      "fileID": 4821189,
+      "required": true
+    },
+    {
+      "alias": "collective_forge_7.64.jar",
+      "projectID": 342584,
+      "fileID": 5460518,
+      "required": true
+    },
+    {
+      "alias": "tree-harvester_forge_8.7.jar",
+      "projectID": 367178,
+      "fileID": 5141422,
+      "required": true
+    },
+    {
+      "alias": "konkrete_forge_1.8.0.jar",
+      "projectID": 410295,
+      "fileID": 5028409,
+      "required": true
+    },
+    {
+      "alias": "melody_forge_1.0.1.jar",
+      "projectID": 938643,
+      "fileID": 4983999,
+      "required": true
+    }, 
+    {
+      "alias": "fancymenu_forge_3.2.3.jar",
+      "projectID": 367706,
+      "fileID": 5340218,
+      "required": true
+    },
+    {
+      "alias": "better-compatibility-checker_forge_1.0.10.jar",
+      "projectID": 551894,
+      "fileID": 4441760,
+      "required": true
+    },
     {
       "projectID": 404465,
       "fileID": 4661834,
