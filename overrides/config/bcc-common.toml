@@ -10,6 +10,6 @@
 	modpackVersion = ""
 	#Use the metadata.json to determine the modpack version
 	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
-	useMetadata = true
+	useMetadata = false
 
 
