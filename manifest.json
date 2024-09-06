@@ -15,6 +15,12 @@
   "author": "",
   "files": [
     {
+      "alias": "waystones_forge_11.4.2.jar",
+      "projectID": 245755,
+      "fileID": 4943265,
+      "required": true
+    },
+    {
       "alias": "natures-compass_forge_1.10.0.jar",
       "projectID": 252848,
       "fileID": 4118390,
