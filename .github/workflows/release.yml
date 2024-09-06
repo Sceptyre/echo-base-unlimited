@@ -34,9 +34,10 @@ jobs:
           node-version: "lts/*"
 
       - name: Install Dependencies
-        run: npm install @semantic-release/exec -D
+        run: npm install -D @semantic-release/exec semantic-release-discord-bot
 
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DISCORD_WEBHOOK: ${{ secrets.RELEASES_DISCORD_WEBHOOK_URL }}
         run: npx semantic-release

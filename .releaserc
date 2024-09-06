@@ -14,6 +14,14 @@
           "name": "Echo-Base-Unlimited-${nextRelease.gitTag}.zip"
         }]
       }
+    ],
+    [
+      "semantic-release-discord-bot",
+      {
+        "notifications": [
+        "branch": "release/*.x.x"
+        ]
+      }
     ]
   ],
   "branches": [ "main" ]
