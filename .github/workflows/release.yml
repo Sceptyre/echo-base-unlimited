@@ -40,4 +40,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           DISCORD_WEBHOOK: ${{ secrets.RELEASES_DISCORD_WEBHOOK_URL }}
+          SEMANTIC_RELEASE_PACKAGE: Echo Base's Unlimited
         run: npx semantic-release
