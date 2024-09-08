@@ -4,6 +4,10 @@ Welcome aboard the Echo Base Vanilla+ Modded experience. This 1.19.2 modpack is 
 ## Mod Requests
 For any mods you'd like to request, please go to the [Issues](https://github.com/Sceptyre/echo-base-unlimited/issues) page and file a **New issue**
 
+## Requirements
+- A launcher for 1 of the 2 methods below
+- [Java 17](https://www.azul.com/downloads/?version=java-17-lts&os=windows&architecture=x86-64-bit&package=jdk#zulu)
+
 ## Install
 ### Method 1: CurseForge
 #### Prerequisites
