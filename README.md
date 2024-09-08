@@ -22,7 +22,9 @@ For any mods you'd like to request, please go to the [Issues](https://github.com
 ### Method 2: Prism/PolyMC
 #### Prerequisites
 - [Prism Launcher](https://prismlauncher.org/download) is installed
+- [Java 17](https://www.azul.com/downloads/?version=java-17-lts&os=windows&architecture=x86-64-bit&package=jdk#zulu) installed and set as default in Prism(**Settings > Java > Java Runtime >Auto-detect...**)
 - Latest release of Echo Base's Unlimited is downloaded
+
 
 #### Steps
 1. Open Prism Launcher
