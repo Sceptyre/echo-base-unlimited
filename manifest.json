@@ -15,6 +15,36 @@
   "author": "",
   "files": [
     {
+      "alias": "redstone-arsenal_forge_7.3.0.20.jar",
+      "projectID": 70631,
+      "fileID": 4759895,
+      "required": true
+    },
+    {
+      "alias": "thermal-innovation_forge_10.3.0.20.jar",
+      "projectID": 291737,
+      "fileID": 4759913,
+      "required": true
+    },
+    {
+      "alias": "modernfix_forge_5.18.0.jar",
+      "projectID": 790626,
+      "fileID": 5399366,
+      "required": true
+    },
+    {
+      "alias": "lazydfu_forge_1.0.2.jar",
+      "projectID": 460819,
+      "fileID": 4327266,
+      "required": true
+    },
+    {
+      "alias": "libipn_forge_4.0.2.jar",
+      "projectID": 679177,
+      "fileID": 5208510,
+      "required": true
+    },
+    {
       "alias": "thermal_dynamics-1.19.2-10.3.0.20.jar",
       "projectID": 227443,
       "fileID": 4760633,
