@@ -15,6 +15,12 @@
   "author": "",
   "files": [
     {
+      "alias": "thermal_dynamics-1.19.2-10.3.0.20.jar",
+      "projectID": 227443,
+      "fileID": 4760633,
+      "required": true
+    },
+    {
       "alias": "create_enchantment_industry-1.19.2-for-create-0.5.1.f-1.2.9.e.jar",
       "projectID": 688768,
       "fileID": 5342348,
