@@ -15,9 +15,75 @@
   "author": "",
   "files": [
     {
-      "alias": "waystones_forge_11.4.2.jar",
-      "projectID": 245755,
-      "fileID": 4943265,
+      "alias": "redstone-arsenal_forge_7.3.0.20.jar",
+      "projectID": 70631,
+      "fileID": 4759895,
+      "required": true
+    },
+    {
+      "alias": "thermal-innovation_forge_10.3.0.20.jar",
+      "projectID": 291737,
+      "fileID": 4759913,
+      "required": true
+    },
+    {
+      "alias": "modernfix_forge_5.18.0.jar",
+      "projectID": 790626,
+      "fileID": 5399366,
+      "required": true
+    },
+    {
+      "alias": "lazydfu_forge_1.0.2.jar",
+      "projectID": 460819,
+      "fileID": 4327266,
+      "required": true
+    },
+    {
+      "alias": "libipn_forge_4.0.2.jar",
+      "projectID": 679177,
+      "fileID": 5208510,
+      "required": true
+    },
+    {
+      "alias": "thermal_dynamics-1.19.2-10.3.0.20.jar",
+      "projectID": 227443,
+      "fileID": 4760633,
+      "required": true
+    },
+    {
+      "alias": "create_enchantment_industry-1.19.2-for-create-0.5.1.f-1.2.9.e.jar",
+      "projectID": 688768,
+      "fileID": 5342348,
+      "required": true
+    },
+    {
+      "alias": "voicechat-forge-1.19.2-2.5.22.jar",
+      "projectID": 416089,
+      "fileID": 5716526,
+      "required": true
+    },
+    {
+      "alias": "ceilingtorch-1.19.2-1.26.jar",
+      "projectID": 326599,
+      "fileID": 4724344,
+      "required": true
+    },
+    {
+      "alias": "jmi-forge-1.19.2-0.13-44.jar",
+      "projectID": 525447,
+      "fileID": 4672153,
+      "required": true
+    },
+    {
+      "alias": "BetterF3-4.0.1-Forge-1.19.2.jar",
+      "projectID": 401648,
+      "fileID": 4863555,
+      "required": true
+    },
+    {
+      "alias": "InventoryProfilesNext-forge-1.19-1.10.10.jar",
+      "projectID": 495267,
+      "fileID": 5209061,
       "required": true
     },
     {
@@ -26,6 +92,7 @@
       "fileID": 4118390,
       "required": true
     },
+  
     {
       "alias": "extreme-sound-muffler_forge_3.39.jar",
       "projectID": 363363,
@@ -894,11 +961,6 @@
       "required": true
     },
     {
-      "projectID": 654384,
-      "fileID": 5321628,
-      "required": true
-    },
-    {
       "projectID": 442354,
       "fileID": 4924317,
       "required": true
@@ -941,11 +1003,6 @@
     {
       "projectID": 839158,
       "fileID": 5275496,
-      "required": true
-    },
-    {
-      "projectID": 240633,
-      "fileID": 4565642,
       "required": true
     },
     {
