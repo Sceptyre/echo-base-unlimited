@@ -41,7 +41,7 @@
     {
       "alias": "EnderStorage-1.20.1-2.11.0.188-universal",
       "projectID": 245174,
-      "fileID": 5292573,
+      "fileID": 3951059,
       "required": true
     },
     {
@@ -90,6 +90,12 @@
       "alias": "DarkUtilities-Forge-1.19.2-13.1.9",
       "projectID": 242195,
       "fileID": 4569332,
+      "required": true
+    },
+    {
+      "alias": "PuzzlesLib-v4.4.3-1.19.2-Forge",
+      "projectID": 495476,
+      "fileID": 4600775,
       "required": true
     },
     {
