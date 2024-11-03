@@ -14,7 +14,19 @@
   "version": "$BUILD_VERSION",
   "author": "",
   "files": [
-        {
+    {
+      "alias": "kubejs-thermal-1902.1.9-build.16.jar",
+      "projectID": 421694,
+      "fileID": 4843027,
+      "required": true
+    },
+    {
+      "alias": "kubejs-create-forge-1902.2.4-build.36.jar",
+      "projectID": 429371,
+      "fileID": 4842873,
+      "required": true
+    },
+    {
       "alias": "Apple Crates-forge-1.19.2-2.13.1",
       "projectID": 630726,
       "fileID": 5788210,
