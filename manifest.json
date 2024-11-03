@@ -15,6 +15,95 @@
   "author": "",
   "files": [
     {
+      "alias": "kubejs-thermal-1902.1.9-build.16.jar",
+      "projectID": 421694,
+      "fileID": 4843027,
+      "required": true
+    },
+    {
+      "alias": "kubejs-create-forge-1902.2.4-build.36.jar",
+      "projectID": 429371,
+      "fileID": 4842873,
+      "required": true
+    },
+    {
+      "alias": "Apple Crates-forge-1.19.2-2.13.1",
+      "projectID": 630726,
+      "fileID": 5788210,
+      "required": true
+    },
+    {
+      "alias": "BetterpetsV1.0.1",
+      "projectID": 953228,
+      "fileID": 4979464,
+      "required": true
+    },
+    {
+      "alias": "Ender Storage 1.19.2-2.10.1.181-universal",
+      "projectID": 245174,
+      "fileID": 3951059,
+      "required": true
+    },
+    {
+      "alias": "MagnumTorch-v4.2.3-1.19.2-Forge",
+      "projectID": 593981,
+      "fileID": 4672802,
+      "required": true
+    },
+    {
+      "alias": "mermod-forge-1.11",
+      "projectID": 709092,
+      "fileID": 4183278,
+      "required": true
+    },
+    {
+      "alias": "PigPen-Forge-1.19.2-11.1.2",
+      "projectID": 396234,
+      "fileID": 3943074,
+      "required": true
+    },
+    {
+      "alias": "Runelic-Forge-1.19.2-14.1.4",
+      "projectID": 393149,
+      "fileID": 4337495,
+      "required": true
+    },
+    {
+      "alias": "simpleshops-1.2.2",
+      "projectID": 517272,
+      "fileID": 4409377,
+      "required": true
+    },
+    {
+      "alias": "thermal_integration-1.19.2-10.3.0.19",
+      "projectID": 626708,
+      "fileID": 4759915,
+      "required": true
+    },
+    {
+      "alias": "kubejs-thermal-1902.1.9-build.16",
+      "projectID": 421694,
+      "fileID": 4843027,
+      "required": true
+    },
+    {
+      "alias": "DarkUtilities-Forge-1.19.2-13.1.9",
+      "projectID": 242195,
+      "fileID": 4569332,
+      "required": true
+    },
+    {
+      "alias": "PuzzlesLib-v4.4.3-1.19.2-Forge",
+      "projectID": 495476,
+      "fileID": 4600775,
+      "required": true
+    },{
+      "alias": "CodeChicken Lib 1.19.2-4.3.2.490-universal",
+      "projectID": 242818,
+      "fileID": 4965330,
+      "required": true
+    },
+    {
       "alias": "redstone-arsenal_forge_7.3.0.20.jar",
       "projectID": 70631,
       "fileID": 4759895,
@@ -721,11 +810,6 @@
       "required": true
     },
     {
-      "projectID": 914926,
-      "fileID": 4962513,
-      "required": true
-    },
-    {
       "projectID": 858691,
       "fileID": 4703544,
       "required": true
@@ -843,11 +927,6 @@
     {
       "projectID": 233019,
       "fileID": 4019127,
-      "required": true
-    },
-    {
-      "projectID": 291874,
-      "fileID": 4037228,
       "required": true
     },
     {
